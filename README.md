@@ -1,6 +1,6 @@
 # Hi 👋, I'm [Your Name]
 
-![Banner](https://imgur.com/a/HPIN33s) <!-- Replace with your direct image link -->
+![Banner]([https://imgur.com/a/HPIN33s]) <!-- Replace with your direct image link -->
 
 ## A passionate [Your Profession] from [Your Location]
 
