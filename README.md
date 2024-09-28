@@ -20,3 +20,10 @@
 ### My GitHub Stats:
 
 [You can add GitHub stats widgets here]
+
+<!--
+Note on images:
+1. Upload your image to an image hosting service (e.g., Imgur, ImgBB)
+2. Copy the direct link to the image
+3. Replace the URL in the ![Banner]() line above with your image link
+-->
