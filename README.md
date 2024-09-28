@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Yukti
-- 👀 I’m interested in exploring
-- 🌱 I’m currently learning frontend development
-- 📫 How to reach me Yuktimehta3000@gmail.com
+# Hi 👋, I'm [Your Name]
 
-<!---
-yukti3000/yukti3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Banner](link-to-your-banner-image)
+
+## A passionate [Your Profession] from [Your Location]
+
+- 🔭 I'm currently working on [Project Name]
+- 🌱 I'm currently learning [Skills/Technologies]
+- 📫 How to reach me: [Your Email]
+- ⚡ Fun fact: [Interesting Fact About You]
+
+### Connect with me:
+
+[Add your social media icons and links here]
+
+### Languages and Tools:
+
+[Add icons for the technologies you use]
+
+### My GitHub Stats:
+
+[You can add GitHub stats widgets here]
