@@ -1,6 +1,6 @@
 # Hi 👋, I'm [Your Name]
 
-![Banner]([https://imgur.com/a/HPIN33s]) <!-- Replace with your direct image link -->
+![Banner](https://i.imgur.com/HPIN33s.jpg)
 
 ## A passionate [Your Profession] from [Your Location]
 
@@ -26,10 +26,3 @@
 ### My GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-<!--
-Note on images:
-1. Upload your image to an image hosting service (e.g., Imgur, ImgBB)
-2. Copy the direct link to the image
-3. Replace the URL in the ![Banner]() line above with your image link
--->
