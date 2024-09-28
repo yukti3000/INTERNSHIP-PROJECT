@@ -1,6 +1,6 @@
 # Hi 👋, I'm [Your Name]
 
-![Banner](link-to-your-banner-image)
+![Banner](https://drive.google.com/file/d/1X1PIBe9VFy6UsAWFEoVCaJHeBu4r1J0u/view?usp=sharing)
 
 ## A passionate [Your Profession] from [Your Location]
 
